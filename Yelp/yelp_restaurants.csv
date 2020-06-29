@@ -1,0 +1,280 @@
+Name,Price,Rating,Review Count,City,Country,Latitude,Longitude,Categories
+La Embajada,$$$,4.0,58,Monterrey,MX,25.6491304328498,-100.335586947083,['mexican']
+La Reynita,$$,4.5,6,San Pedro Garza García,MX,25.651331,-100.334593,['mexican']
+Sonora Grill Prime,$$$$,4.0,26,San Pedro Garza García,MX,25.64996,-100.333284,"['mexican', 'tradamerican']"
+Lázaro & Diego,$$,4.5,19,San Pedro Garza García,MX,25.650509,-100.333172,"['international', 'breakfast_brunch']"
+Mochomos,$$$,4.0,18,San Pedro Garza García,MX,25.6506381876846,-100.333686210792,['mexican']
+Los Arbolitos de Cajeme,$$$,4.0,28,Los Amates,MX,25.6490470119662,-100.335100469783,['seafood']
+La Torrada,$$$,4.5,13,San Pedro Garza García,MX,25.6500201711473,-100.331725010267,"['mexican', 'steak']"
+Piraña,$$,3.5,2,Monterrey,MX,25.6828002929688,-100.311637878418,['latin']
+La Nacional,$$$,4.5,85,Monterrey,MX,25.6742065356243,-100.366196815071,['mexican']
+La Buena Barra,$$$,4.5,37,San Pedro Garza García,MX,25.6577940750199,-100.353454589844,['mexican']
+Los Hidalgos,$$$,4.0,19,San Pedro Garza García,MX,25.6470259061246,-100.326984553919,"['steak', 'mexican']"
+Me Muero de Hambre,$$,4.5,12,Monterrey,MX,25.6662133557222,-100.306602203955,['mexican']
+"El Siciliano, Italian Steak House",$$$,5.0,2,San Pedro Garza García,MX,25.6486495669395,-100.336086922025,"['italian', 'steak']"
+Yamasan Ramen House,$$,4.0,17,Zona Campestre,MX,25.6539848513722,-100.348308082952,['ramen']
+Fidencio Botanero,$$,3.0,6,San Pedro Garza García,MX,25.648443,-100.333764,['mexican']
+Los Arcos,$$,4.0,25,Monterrey,MX,25.6686470382821,-100.347018907889,['seafood']
+Vasto,$$$,4.0,12,San Pedro Garza García,MX,25.651237,-100.338006,['italian']
+La Cerveceria de Barrio,$$$,4.0,9,San Pedro Garza García,MX,25.6492777859186,-100.335691109521,"['seafood', 'beerbar']"
+La Catarina,$$$,4.5,27,Monterrey,MX,25.6666382078388,-100.340906035443,['mexican']
+Asador La Vaca Argentina,$$$,5.0,6,Monterrey,MX,25.665599,-100.317054,['argentine']
+Club Industrial A. C.,$$$$,5.0,9,Nuevo León,MX,25.659844,-100.340967,"['restaurants', 'venues', 'catering']"
+Orson,$$,4.0,5,San Pedro Garza Garcia,MX,25.650356,-100.33359,['burgers']
+El Rey del Cabrito,$$$,4.0,49,Monterrey,MX,25.6637128197667,-100.309113808376,"['steak', 'mexican']"
+Restaurante Safi Royal Luxury,$$$,5.0,1,Monterrey,MX,25.67958,-100.31878,['international']
+Vegan Inc,$$,4.5,28,Monterrey,MX,25.635870585549,-100.313858162317,"['vegetarian', 'vegan']"
+El Gran Pastor,$$$,4.0,32,Monterrey,MX,25.6770115439918,-100.352538532826,['mexican']
+Mirai Sushi Bar,$$,4.0,17,Zona San Agustín,MX,25.65150648996,-100.33849411383,['sushi']
+Almacén 42,$$,4.5,9,Monterrey,MX,25.666461,-100.308256,"['beerbar', 'burgers']"
+Munster Public House,$$$,3.5,17,Monterrey,MX,25.6485381460501,-100.335605537512,"['pubs', 'tradamerican', 'irish_pubs']"
+Madre Oaxaca,$$$,4.5,16,Monterrey,MX,25.6650115512914,-100.309002732574,['oaxacan']
+Deliteca,$$$,4.5,12,Monterrey,MX,25.649418265926,-100.337504541495,"['wine_bars', 'delis']"
+Muncher House,$$,4.0,22,Monterrey,MX,25.6532211133616,-100.294239219188,"['hotdogs', 'bars']"
+Botanero Moritas,$$$,4.0,25,San Pedro Garza García,MX,25.6656469,-100.4014607,"['bars', 'mexican']"
+El Papalote,$$,5.0,7,Monterrey,MX,25.6735753030645,-100.366274155676,['mexican']
+Gallo 71,$$$,4.0,35,Del Valle Sector Fátima,MX,25.651698,-100.373573,['mexican']
+El Varietal Restaurant,$$$$,5.0,3,Monterrey,MX,25.6935,-100.38,['restaurants']
+Huecani,$$,4.5,12,San Pedro Garza García,MX,25.6557387599271,-100.386177335938,['mexican']
+La Escondida Restaurant,$$$,4.5,12,Monterrey,MX,25.6738239132672,-100.366748921078,['mexican']
+Mr. Brown,$$,4.5,36,Monterrey,MX,25.6868706,-100.3766174,"['hotdogs', 'salad', 'burgers']"
+Mozzarella,$$,4.5,19,Monterrey,MX,25.650728,-100.373442,"['pizza', 'italian']"
+Curry Sultan,$$,3.5,22,San Pedro,MX,25.6629791,-100.40345,"['indpak', 'vegetarian']"
+Silvano's,$$$,4.5,14,San Pedro Garza García,MX,25.65162,-100.3678463,['italian']
+Amalia,$$$,4.0,22,San Pedro Garza García,MX,25.651136,-100.368034,"['international', 'steak', 'mexican']"
+El Agasajo,$$,4.5,8,San Pedro Garza García,MX,25.6548123682274,-100.385215353746,['seafood']
+Fonda San Francisco,$$,4.0,9,San Pedro Garza García,MX,25.6609035634041,-100.400966894968,['mexican']
+Mercurio,$$$$,5.0,4,Monterrey,MX,25.706397,-100.37001,['northernmexican']
+Seúl,$$,4.0,8,Monterrey,MX,25.658839776627,-100.36722304599,['korean']
+Chino Latino,$$$,4.5,24,San Pedro Garza García,MX,25.6556611900563,-100.361156389131,['chinese']
+Bodega Ocho,$$$,3.5,6,Garza García,MX,25.6611442573663,-100.367203833112,['restaurants']
+El Respiro,$$,4.0,5,Monterrey,MX,25.6861240381084,-100.375847965479,['mexican']
+Yama-to,$$,4.0,29,Nuevo León,MX,25.659542,-100.362645,['japanese']
+Il Capriccio,$$$,5.0,12,San Pedro Garza García,MX,25.6484091148644,-100.36024850954,['italian']
+Señor Tanaka,$$$,4.5,20,San Pedro Garza García,MX,25.658365,-100.369708,"['japanese', 'asianfusion']"
+Black Market,$$$,4.0,11,Monterrey,MX,25.6602735334972,-100.364984437823,"['mexican', 'seafoodmarkets']"
+Oriental Grill,$$,4.0,7,Monterrey,MX,25.6747578365459,-100.363612770033,['panasian']
+Gyros,$,5.0,1,Monterrey,MX,25.7541809,-100.4070435,['tacos']
+Las Tapas de Arriba,$$,4.0,10,Monterrey,MX,25.692296,-100.377521,['tapasmallplates']
+Frida Chilaquiles,$,4.0,54,Monterrey,MX,25.6561642423217,-100.363628753898,['mexican']
+Los Fresnos Restaurant Bar,$$,4.5,17,Apodaca,MX,25.7787859702512,-100.187410712242,['northernmexican']
+Los Fresnos,$$$,4.5,15,Apodaca,MX,25.78902,-100.143554,['mexican']
+Restaurante Santa Fe,$$$,4.5,6,Apodaca,MX,25.7695463622956,-100.18954485321,['northernmexican']
+IL Castello di Frabo,$$$,4.5,20,Monterrey,MX,25.78787,-100.138732,"['italian', 'pizza', 'steak']"
+El Papalote Taco & Grill,$$,4.0,14,Monterrey,MX,25.7866392618517,-100.136439034771,['tex-mex']
+El Mundo del Marisco,$,4.0,1,Ciudad Apodaca,MX,25.7835080411666,-100.189464613795,['seafood']
+Horno 400,$$,4.0,4,Ciudad Apodaca,MX,25.78794735906,-100.14622438699,['pizza']
+Korean Garden,$$,4.5,2,Ciudad Apodaca,MX,25.7879690948558,-100.145845860243,['korean']
+La Mansion,$$$,4.0,7,Nuevo León,MX,25.7746897663734,-100.111751943702,['steak']
+Galbi's,$$$,4.5,4,Ciudad Apodaca,MX,25.739672,-100.207059,"['korean', 'bbq']"
+Las Catrinas Chilaquiles,$,5.0,4,San Nicolás de los Garza,MX,25.7379378471209,-100.275020040572,['mexican']
+El Lingote,$$$,4.0,20,Monterrey,MX,25.6760923583949,-100.282423041047,['international']
+El Guayabo,$,5.0,1,Guadalupe,MX,25.6995649,-100.2115926,['seafood']
+El Gran Pastor,$,5.0,2,Zacatecas,MX,25.692663895409,-100.242629346185,['northernmexican']
+Las Alitas,$$,2.5,3,Nuevo León,MX,25.7888737543797,-100.14454821153,"['burgers', 'tradamerican']"
+Chili's,$$,2.0,4,Apodaca,MX,25.7896763574732,-100.144626550752,"['bars', 'tex-mex']"
+La Postreria 77,$$,4.5,2,San Nicolás de los Garza,MX,25.768964,-100.276876,['cafeteria']
+Trece Lunas,$$,4.0,1,Guadalupe,MX,25.7047078,-100.2309658,"['international', 'cafeteria', 'creperies']"
+Resturant Garcia,$$,4.0,1,Cienega de Flores,MX,25.874942,-100.227773,['mexican']
+La Goudina,$$,4.5,3,San Pedro Garza García,MX,25.6895949612904,-100.257623233029,"['pizza', 'italian']"
+Los Tacones de Mamá,$$,5.0,1,Guadalupe,MX,25.6930296598628,-100.243646912277,['tacos']
+El Gusto de Puebla,$$,4.5,11,San Nicolás de Los Garza,MX,25.738635,-100.303566,['mexican']
+El Frison,$,4.0,1,Ciudad Apodaca,MX,25.7443071364088,-100.232126824558,['mexican']
+Tacos Santiago,$$,4.5,3,Guadalupe,MX,25.7068330560231,-100.230356901884,['tacos']
+El Pollo Loco,$$,4.5,11,Monterrey,MX,25.688834,-100.258312,['rotisserie_chicken']
+Panem,$$,3.0,2,San Nicolás de los Garza,MX,25.7199115775892,-100.219016127212,"['bakeries', 'bistros']"
+Las Golonas,$,4.5,3,Nuevo León,MX,25.7167923854547,-100.232675982526,['burgers']
+La Cabaña de Rodas,$,3.5,5,Monterrey,MX,25.741263570774,-100.4050719738,"['tacos', 'burgers']"
+Galo Kitchen,$$,4.5,6,Santa Catarina,MX,25.6582413666326,-100.439407887433,['diners']
+Koli,$$$$,5.0,3,Ciudad Santa Catarina,MX,25.6580079463644,-100.439765475038,['mexican']
+Noreste Grill,$$,3.0,5,Monterrey,MX,25.7183762,-100.3556442,['mexican']
+Piacere,$$,5.0,2,Monterrey,MX,25.70532,-100.36915,['italian']
+Taiwán Dim Sum,$$,4.5,18,Monterrey,MX,25.694534034896,-100.343549312991,"['taiwanese', 'dimsum']"
+Kod,$$,5.0,1,Monterrey,MX,25.68826,-100.346609,['steak']
+Las Alitas,$$,4.0,10,Monterrey,MX,25.737591,-100.404761,['hotdogs']
+Merendero Tino,$$,4.5,9,Monterrey,MX,25.7000599,-100.3637619,['mexican']
+Mr. Brown,$$,4.5,3,Monterrey,MX,25.7375829809927,-100.314824357629,['burgers']
+Fonda Oaxaqueña el Tule,$,4.0,1,San Nicolás de Los Garza,MX,25.762668,-100.281836,"['comfortfood', 'mexican']"
+La Jaibita,$$,4.5,4,San Nicolás de Los Garza,MX,25.7616901,-100.2951813,['seafood']
+Tacos Maye,$,5.0,1,San Nicolás de los Garza,MX,25.7599384081136,-100.275223230526,['mexican']
+Olive Garden,$$,2.0,1,San Nicolás de los Garza,MX,25.744574,-100.312224,['italian']
+Pollo Matón,$,4.0,1,San Nicolás de Los Garza,MX,25.7592602,-100.264389,['rotisserie_chicken']
+Black Friday,$$,3.5,2,San Nicolás de los Garza,MX,25.7520011690734,-100.308476909995,"['tacos', 'burgers', 'chicken_wings']"
+El Zorritoz,$$,4.0,2,San Nicolás de Los Garza,MX,25.7377625,-100.302948,"['steak', 'mexican']"
+El Gaucho,$$$,4.5,29,Monterrey,MX,25.6419764,-100.2912656,['argentine']
+La Caldera 1900,$$,4.5,7,Monterrey,MX,25.6084659224926,-100.268889179098,['mexican']
+Las Brazas,$$,4.0,6,Monterrey,MX,25.654562,-100.2939835,"['northernmexican', 'steak']"
+Capuleto,$$,4.5,4,Monterrey,MX,25.6526153952435,-100.294380759338,['italian']
+San Juan Grill,$$$,3.0,5,Monterrey,MX,25.6528971482163,-100.27631926104,['mexican']
+Casa Carlina,$$,4.0,3,Monterrey,MX,25.6427873467327,-100.276819842987,"['cafeteria', 'breakfast_brunch']"
+Picanha Brasileira,$$,4.0,3,Monterrey,MX,25.6268997,-100.2760468,['brazilian']
+YAMA-TO,$$$,4.5,15,Monterrey,MX,25.6511593,-100.2848041,['japanese']
+Che Pebeta,$$,5.0,1,Monterrey,MX,25.5750606068733,-100.248931191263,"['steak', 'argentine']"
+La Petite Bretonne,$,4.0,2,Monterrey,MX,25.6409685701142,-100.281557617793,['french']
+Los Arbolitos de Cajeme,$$,5.0,1,Monterrey,MX,25.6526586731346,-100.276569727454,['seafood']
+Los Frijoles,$,4.0,10,Monterrey,MX,25.6777953648142,-100.312570635378,['mexican']
+Sushi Factory,$$,4.5,3,Monterrey,MX,25.5771683014608,-100.245227453039,['sushi']
+Muelle 17,$$,4.5,14,Monterrey,MX,25.6774004041068,-100.35838310773,['seafood']
+Sr. Mostacho,$$,4.0,21,Monterrey,MX,25.6592792175602,-100.365114941745,['bars']
+Los Aguachiles,$$,4.0,14,Valle de Santa Engracia,MX,25.6582230671257,-100.352849480594,"['seafood', 'mexican']"
+Colmillo,$$$,4.0,8,Garza García,MX,25.6579090898323,-100.353428656016,['mexican']
+Pacifica,$$$,4.0,5,Monterrey,MX,25.6744472028989,-100.363100891794,['seafood']
+La Felix,$$$,4.5,20,San Pedro Garza García,MX,25.6557101883438,-100.361210815609,"['bars', 'mexican']"
+Mariscos Don Arturo,$$,4.0,13,Monterrey,MX,25.6790791,-100.3653488,['seafood']
+Sierra Madre Brewing Co.,$$$,4.0,19,Monterrey,MX,25.683436,-100.354542,"['bars', 'tradamerican', 'pizza']"
+Petunia´s,$$,3.5,9,Monterrey,MX,25.674147,-100.363437,['tradamerican']
+Tacos El Primo,$$,4.5,6,Monterrey,MX,25.6783616408933,-100.330585201706,['tacos']
+Taquería Orinoco,$,4.5,25,Monterrey,MX,25.75448,-100.40782,['tacos']
+Gran Invernadero,$$,4.5,4,Del Carmen,MX,25.6701898522166,-100.354532399069,['mexican']
+Olive Garden,$$$,3.5,3,San Pedro Garza García,MX,25.6497748785427,-100.32939394455,['italian']
+Nómada XXI,$$$,5.0,7,Monterrey,MX,25.678885939153,-100.352352149785,"['foodtrucks', 'burgers']"
+Cabo Grill,$$,4.0,14,San Pedro Garza García,MX,25.647621,-100.358682,"['seafood', 'mexican']"
+Palax,$$,3.5,17,Monterrey,MX,25.6732571624774,-100.350737938653,"['cafeteria', 'mexican']"
+El Buey,$,3.5,5,San Nicolás de Los Garza,MX,25.7448448609407,-100.312207259686,['mexican']
+Todo Empanadas,$$,5.0,1,Roble Norte,MX,25.74463,-100.30757,"['salad', 'argentine']"
+Spike's,$$,4.0,6,Monterrey,MX,25.743877,-100.363039,"['burgers', 'hotdogs']"
+Gran Rodeo,$$,3.5,3,San Nicolás de los Garza,MX,25.7493378646589,-100.298518916611,['burgers']
+Wing Stop,$$,3.0,2,Monterrey,MX,25.7422997497233,-100.411986855089,['chicken_wings']
+La Jaiba,$,5.0,1,Monterrey,MX,25.59289,-100.24273,"['seafood', 'mexican']"
+Ciao Italia Barrio Antiguo,$$,4.5,4,Monterrey,MX,25.6662782079777,-100.305818313769,['italian']
+Tenerias,$$,3.5,15,Monterrey,MX,25.6705825920916,-100.305576882989,"['bars', 'mexican']"
+Los Magueyes,$,5.0,1,Sanitycity,MX,25.6837054217404,-100.253553571773,"['tacos', 'bbq']"
+Garufa,$$$,4.0,3,Monterrey,MX,25.7192383,-100.3518753,['argentine']
+Taqueria Juarez,$$,4.0,28,Monterrey,MX,25.676277,-100.312166,['mexican']
+Hare Krishna Monterrey,$$,4.0,8,Monterrey,MX,25.665673199663,-100.307422462405,"['vegetarian', 'indpak']"
+Indio Azteca,$$,4.5,4,Monterrey,MX,25.683149,-100.303585,['mexican']
+Tito's,$$,4.5,3,Monterrey,MX,25.647714,-100.291097,"['chicken_wings', 'mexican']"
+El Paisa de Tampico,$,5.0,5,Monterrey,MX,25.6705474546985,-100.321137942374,['mexican']
+Sisu,$$$,5.0,1,San Pedro Garza García,MX,25.6598532376231,-100.416311569157,['panasian']
+Cien 28,$$$,4.5,5,Monterrey,MX,25.6596593310739,-100.416489691758,"['comfortfood', 'mexican']"
+La Bottega d'Italia,$$,4.5,4,San Pedro Garza García,MX,25.6645252727388,-100.401484333455,"['pizza', 'italian']"
+Ribite Burgers,$$,4.0,1,Zona Valle Poniente,MX,25.6580675175211,-100.439365918179,['burgers']
+La Barda,$,4.0,3,Santa Catarina,MX,25.6599753699676,-100.416283272207,['mexican']
+Pollo Raul,$$,4.0,1,Santa Catarina,MX,25.6813793,-100.4847946,"['rotisserie_chicken', 'mexican']"
+Torino's Pizza,$,3.0,2,Balcones de Santa Catarina,MX,25.6741753,-100.4528427,['pizza']
+Casagrande,$$,4.0,18,Nuevo León,MX,25.653814,-100.381892,['northernmexican']
+Los Curricanes,$$$,4.0,5,San Pedro Garza García,MX,25.6574126858042,-100.389251022677,"['seafood', 'mexican']"
+Oriental Wok,$,4.0,1,Santa Catarina,MX,25.6768052253796,-100.44901996851,"['chinese', 'japanese', 'asianfusion']"
+Chef Oriental,$,4.5,2,Monterrey,MX,25.7170319014562,-100.38339768453,['chinese']
+Las Naciones,$$,4.0,4,Monterrey,MX,25.6554241,-100.4098076,"['baguettes', 'delis', 'soup']"
+Buongusto,$$,2.5,2,Monterrey,MX,25.7402496,-100.4076996,['italian']
+Las Alitas,$$,2.5,4,Industrias del Poniente,MX,25.6893177,-100.4990082,['burgers']
+Choice Grill House,$$$,4.0,3,San Pedro Garza García,MX,25.6349738,-100.3636592,"['seafood', 'steak']"
+Crêpe de Paris,$$,4.5,6,Residencial Chipinque,MX,25.6485870334554,-100.360511219996,"['creperies', 'french']"
+Crêpe de Paris,$$,4.5,28,Monterrey,MX,25.6867043,-100.3762619,['french']
+Bife Ancho,$$$,3.5,5,Zona Residencial Chipinque,MX,25.638715394322,-100.361497896332,"['steak', 'argentine']"
+Rotonda 102,$$$,2.5,11,San Pedro Garza García,MX,25.6566991819514,-100.371247119959,['steak']
+The Food Box,$$,3.5,30,Monterrey,MX,25.653694,-100.349235,"['burgers', 'tradamerican']"
+Seis Chiles,$,2.5,9,Monterrey,MX,25.6655388354801,-100.407904340475,['mexican']
+Pan Benell,$$,4.0,4,San Pedro Garza García,MX,25.6509792,-100.3827055,['breakfast_brunch']
+La Divina Linda Vista,$,4.0,3,Guadalupe,MX,25.6894108499513,-100.256210141147,"['divebars', 'northernmexican']"
+La Nacional,$$$,4.0,6,Monterrey,MX,25.682615,-100.302961,['northernmexican']
+Olive Garden,$$,3.0,6,Monterrey,MX,25.6526404433479,-100.274853161941,['italian']
+El Siciliano,$$$,4.5,5,Monterrey,MX,25.6665,-100.308,['italian']
+La Galería Café,$$,4.0,7,Monterrey,MX,25.6664298702324,-100.307493406746,"['bars', 'italian']"
+El Pollo Pepe,$$,4.0,1,El Milagro,MX,25.7523626262163,-100.198040414915,['rotisserie_chicken']
+El Rincon del Taco,$$,4.0,1,Monterrey,MX,25.693057,-100.190375,['restaurants']
+La Cocina de Mi Abuela,$,4.0,1,Monterrey,MX,25.7635207511153,-100.414160974324,"['diners', 'hotdogs', 'mexican']"
+Tamales Salinas,$,4.5,10,Monterrey,MX,25.7771626,-100.3778305,['tamales']
+El Papalote Taco & Grill,$$,3.5,17,Monterrey,MX,25.715573,-100.382531,['restaurants']
+La Artesanal,$$$,4.0,4,Monterrey,MX,25.5799785575264,-100.246313599174,['mexican']
+Asador las Diligencias,$,5.0,1,Monterrey,MX,25.6772110768313,-100.322697877151,['restaurants']
+El Compirri,$,4.0,1,Lomas de Tolteca,MX,25.6616033700933,-100.238424316049,"['foodtrucks', 'burgers']"
+Tacos el Güero,$$,4.0,5,Monterrey,MX,25.6906676052103,-100.250899940729,['tacos']
+Cafeterias Tok's,$$,5.0,2,Rincón del Contry,MX,25.6619341016706,-100.260615409262,"['cafeteria', 'mexican']"
+Teo Burger,$,3.5,2,Guadalupe,MX,25.6766538388906,-100.257411003113,['burgers']
+Modenese,$$$$,4.0,13,San Pedro Garza García,MX,25.6580794,-100.3534799,['italian']
+El Castor,$$$,4.0,16,Monterrey,MX,25.6956485436057,-100.351632128024,['northernmexican']
+Restaurante el Mirador,$$$,4.0,14,Monterrey,MX,25.667791,-100.332909,['restaurants']
+Chiapas De Mis Amores,$,4.0,2,San Nicolás de los Garza,MX,25.7441460892128,-100.290007763297,['mexican']
+El Capi,$,4.0,1,San Nicolás de los Garza,MX,25.7088112828991,-100.263143656964,['seafood']
+Sierra Madre Brewing Co.,$$,3.0,7,Valles de Linda Vista,MX,25.6928597264223,-100.241719804973,"['mexican', 'breweries']"
+La Pasadita,$$,4.0,2,Residencial Azteca,MX,25.6832602751131,-100.230613388121,['bbq']
+Restaurante Rubio,$,4.0,7,Monterrey,MX,25.6828378657564,-100.281798653305,['mexican']
+Los Generales,$$,2.5,6,Guadalupe,MX,25.6939982760462,-100.241076685488,['buffets']
+Lijiang,$$,5.0,2,Monterrey,MX,25.6498909,-100.2944412,['japanese']
+Tacos Popo's,$,4.5,6,Anáhuac,MX,25.7422408543649,-100.312093533576,['tacos']
+Carl's Jr.,$,3.0,2,Rincón de Guadalupe,MX,25.6524422180193,-100.185868106782,['tradamerican']
+Las Aliadas,$$,4.0,8,Monterrey,MX,25.6425248893312,-100.27700616676,"['salad', 'burgers']"
+La Romanita,$$$,4.0,3,Alfonso Reyes,MX,25.6435117431361,-100.27667479482,['italian']
+Davila's House,$$,3.0,5,San Nicolás de Los Garza,MX,25.7302945514265,-100.302662216127,['mexican']
+Street Burger,$$,3.5,3,Monterrey,MX,25.7363091,-100.3999634,['burgers']
+El Güero,$,3.5,8,Monterrey,MX,25.739868,-100.406661,['tacos']
+Los Tacos Peña,$,4.0,5,Monterrey,MX,25.7211961,-100.3890923,['tacos']
+Tortas Bernal,$,3.5,17,Monterrey,MX,25.739383,-100.406016,['delis']
+Toks,$$,4.0,3,Monterrey,MX,25.7317586173648,-100.396322672186,"['cafeteria', 'breakfast_brunch']"
+Oriental Wok,$$,3.5,4,Monterrey,MX,25.7332249,-100.3976364,"['japanese', 'chinese', 'asianfusion']"
+Buffalo Wild Wings,$$,4.5,2,Monterrey,MX,25.6972091016024,-100.353869845367,['chicken_wings']
+Ciao Italia,$$,4.5,7,Monterrey,MX,25.6942851202634,-100.357893882154,"['pizza', 'italian']"
+McDonald's,$$,5.0,1,Guadalupe,MX,25.6560090854429,-100.183020941913,"['hotdogs', 'burgers']"
+Sushi Itto,$$,4.0,4,Monterrey,MX,25.6326810741849,-100.281137488782,['japanese']
+Kasumi,$$$,3.5,7,Monterrey,MX,25.6377584330736,-100.316561678877,['japanese']
+Rancho Viejo,$$,3.5,2,Monterrey,MX,25.6348555,-100.283171,"['seafood', 'steak']"
+Gorditas Doña Tota,$,3.0,1,Roble Santa María,MX,25.6570952633372,-100.18386952579,['northernmexican']
+KOTO Sushi Bar,$$,5.0,1,Adolfo Prieto,MX,25.69837,-100.2548828,['japanese']
+Teo Burger,$,5.0,2,Paraíso,MX,25.6781597,-100.2694016,['burgers']
+Napoli,$$,4.0,17,Monterrey,MX,25.6931333,-100.3779109,"['italian', 'pizza']"
+Tacos del Caballo,$,5.0,4,Monterrey,MX,25.7198391,-100.387413,['tacos']
+Ahogaditas Tapatío,$,5.0,2,Monterrey,MX,25.681879,-100.3607864,['jaliscan']
+Tacos del Chavo,$,4.0,1,Monterrey,MX,25.6861382264377,-100.334450501009,['tacos']
+Comidas Irene,$,2.0,1,Escobedo,MX,25.8217392,-100.2949982,['mexican']
+Noreste Grill,$$,2.5,2,Monterrey,MX,25.576882896221,-100.24591913518,"['steak', 'mexican']"
+Kampai 401,$$$,4.5,16,San Pedro Garza García,MX,25.6554127512987,-100.361850259947,['japanese']
+P.F Chang's,$$$,3.0,6,Monterrey,MX,25.653397936131,-100.274892497842,['panasian']
+Giulia,$$,3.0,2,Monterrey,MX,25.653258236752,-100.29399096966,"['pizza', 'italian']"
+Pollos 2x130,$,4.0,2,Monterrey,MX,25.6403468765569,-100.305926822638,"['streetvendors', 'rotisserie_chicken']"
+Chorlitos,$$,5.0,1,Ampliación Valle del Mirador,MX,25.6409569,-100.3157959,['mexican']
+Quepacho,$,5.0,5,Monterrey,MX,25.642312,-100.2909605,['tacos']
+La Jarochita,$$,3.5,2,Tecnológico,MX,25.6486833628341,-100.296176951373,['mexican']
+Le Bistro,$$$,4.5,14,San Pedro Garza García,MX,25.6452883693985,-100.355593009979,['bistros']
+Oriental Grill,$$,4.5,14,San Pedro Garza García,MX,25.628119,-100.364326,['chinese']
+Guacamaya Restaurant,$$$$,4.5,6,Monterrey,MX,25.6503198339321,-100.357584501358,['mexican']
+El Granero Grill,$$$,4.0,18,San Pedro Garza García,MX,25.6553860124752,-100.3622935969,['restaurants']
+Burger Station,$$,4.0,11,San Pedro Garza García,MX,25.6351532727969,-100.363661392014,"['tradamerican', 'burgers']"
+Kikua,$$,5.0,1,Centro,MX,25.6697809784967,-100.323381189595,[]
+Backroom,$$,1.0,1,Monterrey,MX,25.7125584,-100.3423251,['gastropubs']
+Bece,$$$$,4.0,4,San Pedro Garza García,MX,25.6584043907102,-100.360124048881,['seafood']
+Mr Brown,$$,4.0,9,Monterrey,MX,25.6402254543053,-100.286084642188,['burgers']
+Muelle de al Lado,$$,4.0,23,San Pedro Garza García,MX,25.6553613192488,-100.361250563951,['seafood']
+Mr. Pampas,$$$,4.5,24,Zona del Valle,MX,25.653649667583,-100.359555082335,['brazilian']
+Hanaichi,$$$$,4.0,3,Monterrey,MX,25.6511044385956,-100.367584541156,"['sushi', 'japanese']"
+El 32,$$,4.0,1,San Pedro Garza Garcia,MX,25.6603700846536,-100.416513770392,"['breakfast_brunch', 'tradamerican', 'mexican']"
+Nikkori San Jerónimo,$$$,4.5,4,Monterrey,MX,25.6737194524775,-100.366381316231,"['sushi', 'japanese']"
+Void Food Truck,$,5.0,2,Monterrey,MX,25.6535738425931,-100.290091781106,"['foodtrucks', 'italian']"
+Little Caesars Pizza,$$,4.0,6,San Nicolás de Los Garza,MX,25.7236179312522,-100.226838178933,['pizza']
+Estación JC,$,3.5,6,Contry Sol,MX,25.6507747787187,-100.266070950659,['mexican']
+Malecon Habana,$,5.0,1,Monterrey,MX,25.67028,-100.30549,"['bars', 'cuban']"
+San Carlos,$$$,4.0,13,Nuevo León,MX,25.6670154721219,-100.341523066163,['mexican']
+VeganMunch,$,4.0,1,Monterrey,MX,25.681152,-100.3260738,"['burgers', 'vegetarian', 'mexican']"
+Panem Bakery & Bistro,$$,3.0,10,San Pedro Garza García,MX,25.6599094959451,-100.416572624647,['bakeries']
+Amadeus Restaurant,$$$,4.0,10,San Pedro Garza García,MX,25.6568158461104,-100.367423299803,"['italian', 'latin', 'french']"
+La Cafet' Centrito SP,$,5.0,1,San Pedro Garza García,MX,25.659581632383,-100.365911051999,"['bakeries', 'cafeteria']"
+Yokot´an,$$,4.0,4,San Pedro Garza Garcia,MX,25.658067,-100.368201,"['mexican', 'cafeteria']"
+Los Generales,$$,3.0,2,San Nicolás de los Garza,MX,25.7448972372538,-100.311847776175,['mexican']
+El Rey del Taco,$$,4.5,4,Centro,MX,25.678123823582,-100.330987821826,['mexican']
+El Lindero,$$,3.5,10,Monterrey,MX,25.6707172136706,-100.337646192843,['mexican']
+Neuquén,$$$,3.5,28,Monterrey,MX,25.669824,-100.308286,"['argentine', 'pizza']"
+Ikkyu,$$$,4.0,5,Zona Valle del Mezquite,MX,25.6561683281884,-100.387248985358,"['ramen', 'teppanyaki', 'izakaya']"
+Boquiaches,$,4.5,10,Monterrey,MX,25.6377857447909,-100.316224751767,['breakfast_brunch']
+La Gran Muralla Express,$$,4.5,5,Monterrey,MX,25.635677935671,-100.313750679507,['chinese']
+Los Generales,$$,3.5,8,Monterrey,MX,25.6622138003382,-100.283692171469,['buffets']
+Costeñito,$$,3.0,2,Escobedo,MX,25.76918,-100.28152,['seafood']
+Taller Vegánico,$$,4.5,22,Tampiquito,MX,25.6506145802794,-100.382939509333,['vegan']
+Pescaderias Martinez Tijerina,$$,4.5,15,Monterrey,MX,25.7065104366642,-100.370944833534,['seafood']
+China & out,$,5.0,1,San Pedro Garza García,MX,25.6559094896348,-100.387060704597,['chinese']
+Los Bainas,$,5.0,1,Monterrey,MX,25.6268997,-100.2988586,['tacos']
+Tacos Mañaneros Cabañas,$,5.0,1,Monterrey,MX,25.6270301137593,-100.298841074109,"['breakfast_brunch', 'tacos']"
+El Reten,$,4.0,1,Monterrey,MX,25.624787,-100.29949,['burgers']
+Horno 400,$$,4.0,11,Monterrey,MX,25.6550844816518,-100.293171232932,"['pizza', 'italian']"
+Brugge,$$,3.0,3,Monterrey,MX,25.6532385683179,-100.274638113244,"['creperies', 'desserts']"
+Nikkori,$$,4.0,2,Nuevo León,MX,25.6897470385987,-100.257312946896,['japanese']
+Vegetarian,$$$,4.5,12,Monterrey,MX,25.6559737,-100.3871738,['vegetarian']
+Saki,$$,4.5,3,San Pedro Garza García,MX,25.6589719453971,-100.390793946802,"['sushi', 'japanese']"
+Manhattan's,$$,3.5,14,Monterrey,MX,25.6488705,-100.2857666,"['tradamerican', 'burgers']"
+Di Massimo,$$,4.5,5,Monterrey,MX,25.6507859473265,-100.292791290546,['italian']
+La Playita,$$,3.5,8,Monterrey,MX,25.6964413661687,-100.343058797051,['seafood']
+Shiva Station,$,4.0,4,Monterrey,MX,25.6983795,-100.3407516,"['vegetarian', 'vegan']"
+Denny's,$$,3.5,2,Apodaca  Nl,MX,25.7843443992706,-100.120306140234,"['diners', 'breakfast_brunch', 'tradamerican']"
+Fu-Ten,$$,5.0,3,San Pedro Garza García,MX,25.6385682209827,-100.360895233833,['ramen']
+China House,$$,4.0,6,Monterrey,MX,25.6909455,-100.3447493,['chinese']
+Le Clair,$$$,3.0,4,Monterrey,MX,25.6908,-100.354,['restaurants']

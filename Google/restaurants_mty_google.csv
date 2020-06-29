@@ -1,0 +1,370 @@
+Rest Name,Rest Id,Rest Address,Rest Rating,Rest Review Count,Rest Price,Rest Latitude,Rest Longitude
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.641993,-100.287138
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6409234,-100.2854039
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.6356611,-100.2839361
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.6712859,-100.3059172
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6760782,-100.282441
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.676325,-100.3121333
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6666378,-100.3407827
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6669594,-100.341609
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.6661397,-100.3066298
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,4,25.6740329,-100.3661906
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.6866952,-100.3765442
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.7020702,-100.3669739
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6502508,-100.3335439
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.648617,-100.335716
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6471958,-100.3271846
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6484679,-100.3355257
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.648464,-100.296475
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.641993,-100.287138
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6409234,-100.2854039
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.6356611,-100.2839361
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.6712859,-100.3059172
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6760782,-100.282441
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.676325,-100.3121333
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6666378,-100.3407827
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6669594,-100.341609
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.6661397,-100.3066298
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,4,25.6740329,-100.3661906
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.6866952,-100.3765442
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.7020702,-100.3669739
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6502508,-100.3335439
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.648617,-100.335716
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6471958,-100.3271846
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6484679,-100.3355257
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.648464,-100.296475
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.641993,-100.287138
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6409234,-100.2854039
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.6356611,-100.2839361
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.6712859,-100.3059172
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6760782,-100.282441
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.676325,-100.3121333
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6502508,-100.3335439
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.648617,-100.335716
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.6661397,-100.3066298
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6666378,-100.3407827
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6669594,-100.341609
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,4,25.6740329,-100.3661906
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.6866952,-100.3765442
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.7020702,-100.3669739
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6484679,-100.3355257
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6737912,-100.3667888
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.641993,-100.287138
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6409234,-100.2854039
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.6356611,-100.2839361
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.6712859,-100.3059172
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6760782,-100.282441
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.676325,-100.3121333
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6666378,-100.3407827
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6669594,-100.341609
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,2,25.6661397,-100.3066298
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,4,25.6740329,-100.3661906
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.6866952,-100.3765442
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.7020702,-100.3669739
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6502508,-100.3335439
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.648617,-100.335716
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6471958,-100.3271846
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6484679,-100.3355257
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.648464,-100.296475
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.641993,-100.287138
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6409234,-100.2854039
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.676325,-100.3121333
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6666378,-100.3407827
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6669594,-100.341609
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.6661397,-100.3066298
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,4,25.6740329,-100.3661906
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.6866952,-100.3765442
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.7020702,-100.3669739
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6502508,-100.3335439
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.648617,-100.335716
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6471958,-100.3271846
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6484679,-100.3355257
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.648464,-100.296475
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.641993,-100.287138
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6409234,-100.2854039
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.6356611,-100.2839361
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.6712859,-100.3059172
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6760782,-100.282441
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.676325,-100.3121333
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6502508,-100.3335439
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.648617,-100.335716
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.6661397,-100.3066298
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,4,25.6740329,-100.3661906
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.6866952,-100.3765442
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.7020702,-100.3669739
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6471958,-100.3271846
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6484679,-100.3355257
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6737912,-100.3667888
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.641993,-100.287138
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6409234,-100.2854039
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.6356611,-100.2839361
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.6712859,-100.3059172
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6760782,-100.282441
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6669594,-100.341609
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.6661397,-100.3066298
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,4,25.6740329,-100.3661906
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.6866952,-100.3765442
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.7020702,-100.3669739
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6471958,-100.3271846
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6484679,-100.3355257
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.648464,-100.296475
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.641993,-100.287138
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6409234,-100.2854039
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.6356611,-100.2839361
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.6712859,-100.3059172
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6760782,-100.282441
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.676325,-100.3121333
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6666378,-100.3407827
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6669594,-100.341609
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.6661397,-100.3066298
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,4,25.6740329,-100.3661906
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.6866952,-100.3765442
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6471958,-100.3271846
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6484679,-100.3355257
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.648464,-100.296475
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.641993,-100.287138
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6409234,-100.2854039
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.6356611,-100.2839361
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.6712859,-100.3059172
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6760782,-100.282441
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.676325,-100.3121333
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.6661397,-100.3066298
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,4,25.6740329,-100.3661906
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.6866952,-100.3765442
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.7020702,-100.3669739
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6502508,-100.3335439
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.648617,-100.335716
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6471958,-100.3271846
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6484679,-100.3355257
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.648464,-100.296475
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.641993,-100.287138
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6409234,-100.2854039
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.6356611,-100.2839361
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.6712859,-100.3059172
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6760782,-100.282441
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.676325,-100.3121333
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6666378,-100.3407827
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6669594,-100.341609
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,4,25.6740329,-100.3661906
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.6866952,-100.3765442
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.7020702,-100.3669739
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6502508,-100.3335439
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.648617,-100.335716
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6471958,-100.3271846
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6484679,-100.3355257
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.648464,-100.296475
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.641993,-100.287138
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6409234,-100.2854039
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.6356611,-100.2839361
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.6712859,-100.3059172
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6760782,-100.282441
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6666378,-100.3407827
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6669594,-100.341609
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.6661397,-100.3066298
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,4,25.6740329,-100.3661906
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.6866952,-100.3765442
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.7020702,-100.3669739
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6502508,-100.3335439
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.648617,-100.335716
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6471958,-100.3271846
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6484679,-100.3355257
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.648464,-100.296475
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.6356611,-100.2839361
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.6712859,-100.3059172
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6760782,-100.282441
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.676325,-100.3121333
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6502508,-100.3335439
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.648617,-100.335716
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.6661397,-100.3066298
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,4,25.6740329,-100.3661906
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.6866952,-100.3765442
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.7020702,-100.3669739
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6471958,-100.3271846
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6484679,-100.3355257
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6737912,-100.3667888
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.641993,-100.287138
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6409234,-100.2854039
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.6356611,-100.2839361
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.6712859,-100.3059172
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6760782,-100.282441
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.676325,-100.3121333
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6666378,-100.3407827
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6669594,-100.341609
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.6661397,-100.3066298
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,4,25.6740329,-100.3661906
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.6866952,-100.3765442
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.7020702,-100.3669739
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.648617,-100.335716
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6471958,-100.3271846
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6484679,-100.3355257
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.6661397,-100.3066298
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6471958,-100.3271846
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6737912,-100.3667888
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.641993,-100.287138
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6409234,-100.2854039
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.6356611,-100.2839361
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.6712859,-100.3059172
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6760782,-100.282441
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.676325,-100.3121333
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6666378,-100.3407827
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6669594,-100.341609
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.7020702,-100.3669739
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6502508,-100.3335439
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.648617,-100.335716
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6484679,-100.3355257
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.648464,-100.296475
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.641993,-100.287138
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6409234,-100.2854039
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.6356611,-100.2839361
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,2,25.6712859,-100.3059172
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6760782,-100.282441
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.676325,-100.3121333
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.6661397,-100.3066298
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.6866952,-100.3765442
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.7020702,-100.3669739
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6471958,-100.3271846
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6737912,-100.3667888
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6409234,-100.2854039
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.6356611,-100.2839361
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.6712859,-100.3059172
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6760782,-100.282441
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.676325,-100.3121333
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6666378,-100.3407827
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6669594,-100.341609
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.6661397,-100.3066298
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,4,25.6740329,-100.3661906
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.6866952,-100.3765442
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.7020702,-100.3669739
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6502508,-100.3335439
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.648617,-100.335716
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6471958,-100.3271846
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6484679,-100.3355257
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.648464,-100.296475
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.641993,-100.287138
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6760782,-100.282441
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.676325,-100.3121333
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6666378,-100.3407827
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6669594,-100.341609
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.6661397,-100.3066298
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.7020702,-100.3669739
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6409234,-100.2854039
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.6356611,-100.2839361
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,2,25.6712859,-100.3059172
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6760782,-100.282441
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,2,25.676325,-100.3121333
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6666378,-100.3407827
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6669594,-100.341609
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.6661397,-100.3066298
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,4,25.6740329,-100.3661906
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.6866952,-100.3765442
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.7020702,-100.3669739
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6502508,-100.3335439
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.648617,-100.335716
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6471958,-100.3271846
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6484679,-100.3355257
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,2,25.648464,-100.296475
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.641993,-100.287138
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6409234,-100.2854039
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.6356611,-100.2839361
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.6712859,-100.3059172
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6760782,-100.282441
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.676325,-100.3121333
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6666378,-100.3407827
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6502508,-100.3335439
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.648617,-100.335716
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6471958,-100.3271846
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6484679,-100.3355257
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.648464,-100.296475
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6737912,-100.3667888
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6666378,-100.3407827
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6669594,-100.341609
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,4,25.6740329,-100.3661906
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.6866952,-100.3765442
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.7020702,-100.3669739
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.6502508,-100.3335439
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.648617,-100.335716
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6471958,-100.3271846
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.648464,-100.296475
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.641993,-100.287138
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6409234,-100.2854039
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,2,25.6356611,-100.2839361
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.6712859,-100.3059172
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,3,25.6502508,-100.3335439
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.648617,-100.335716
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,2,25.6661397,-100.3066298
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.648464,-100.296475
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,2,25.676325,-100.3121333
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6666378,-100.3407827
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6669594,-100.341609
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,2,25.6661397,-100.3066298
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,4,25.6740329,-100.3661906
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,2,25.6866952,-100.3765442
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6471958,-100.3271846
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,3,25.6484679,-100.3355257
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,2,25.648464,-100.296475
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.641993,-100.287138
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6409234,-100.2854039
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,2,25.6356611,-100.2839361
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.6712859,-100.3059172
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6502508,-100.3335439
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.648617,-100.335716
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6471958,-100.3271846
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.641993,-100.287138
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,4,25.6740329,-100.3661906
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.7020702,-100.3669739
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6502508,-100.3335439
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.648617,-100.335716
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,2,25.6712859,-100.3059172
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6502508,-100.3335439
+Me Muero de Hambre,ChIJZ-6IGS2-YoYRx8srKn9Z7rU,"Francisco Javier Mina 1003, Barrio Antiguo, Centro, 64000 Monterrey, N.L., Mexico",4.4,3533,3,25.6737912,-100.3667888
+Sonora Grill Prime - Monterrey,ChIJ__8r_eW9YoYRE9CPWvk15NE,"Lázaro Cárdenas #2400 San Pedro Garza, 66269 Monterrey, N.L., Mexico",4.6,1694,3,25.6666378,-100.3407827
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6669594,-100.341609
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,4,25.6740329,-100.3661906
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,2,25.6866952,-100.3765442
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6409234,-100.2854039
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6484679,-100.3355257
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.648464,-100.296475
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.641993,-100.287138
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6760782,-100.282441
+El Semáforo,ChIJ_zgYILe_YoYR5EYzs6bfBWk,"Río Pánuco 2222, México, 64740 Monterrey, N.L., Mexico",4.4,521,3,25.6669594,-100.341609
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6737912,-100.3667888
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,2,25.648464,-100.296475
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,3,25.6666378,-100.3407827
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6669594,-100.341609
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.7020702,-100.3669739
+Las Pampas Restaurante,ChIJ-ZWtc8i_YoYR8bSyGRacNiQ,"Av. Eugenio Garza Sada Sur 2401, Roma, 64700 Monterrey, N.L., Mexico",4.6,196,3,25.6760782,-100.282441
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.676325,-100.3121333
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6666378,-100.3407827
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6669594,-100.341609
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,2,25.6661397,-100.3066298
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,2,25.6712859,-100.3059172
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6666378,-100.3407827
+El Gaucho,ChIJtzo60bq_YoYRcrIPNgi5nL8,"Arroyo Seco 100, Arroyo Seco, 64740 Monterrey, N.L., Mexico",4.7,3948,2,25.648464,-100.296475
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,4,25.6740329,-100.3661906
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.6866952,-100.3765442
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.7020702,-100.3669739
+El Gran Pastor,ChIJrbHv3wCWYoYRXePKnzYc3Rg,"Dr. José Eleuterio González (Gonzalitos) 702, San Jerónimo, 64020 Monterrey, N.L., Mexico",4.5,6529,2,25.648464,-100.296475
+Mr.Pampas Garza Sada,ChIJC3YkK56_YoYRjy_AOLrblsU,"Av. Eugenio Garza Sada Sur 3515, Contry, 64860 Monterrey, N.L., Mexico",4.6,6852,3,25.6502508,-100.3335439
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.648617,-100.335716
+La Divina,ChIJHYAEQiu-YoYRBTxOvG4CgOE,"Calle Diego de Montemayor 507 Sur, Centro, 64000 Monterrey, N.L., Mexico",4.6,931,3,25.6471958,-100.3271846
+El Lingote,ChIJzxpWCuC_YoYRsN0WCa_rOcA,"Av. Fundidora s/n Museo del Acero A.C, Obrera, 64010 Monterrey, N.L., Mexico",4.5,1106,3,25.6484679,-100.3355257
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,2,25.648464,-100.296475
+La Catarina,ChIJNRB5ft6_YoYRAzeuEj9mYd8,"Av. Ignacio Morones Prieto 2525 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,1230,3,25.641993,-100.287138
+Restaurante San Carlos,ChIJL4f_fgS-YoYR6Lw7W4djdy0,"Av. Ignacio Morones Prieto 2803 Pte, Loma Larga, 64710 Monterrey, N.L., Mexico",4.6,2974,3,25.6409234,-100.2854039
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,2,25.6356611,-100.2839361
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6760782,-100.282441
+Mon Paris - San Jerónimo,ChIJBYiBQDyWYoYREECDa6JJBts,"Av. Anillo Periferico 1300, Hacienda San Jerónimo, 64630 Monterrey, N.L., Mexico",4.7,1046,2,25.676325,-100.3121333
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,2,25.6661397,-100.3066298
+Los Arcos,ChIJWeJA38i_YoYRMn-blbmKAMA,"Av. Eugenio Garza Sada 3752, Contry, 64860 Monterrey, N.L., Mexico",4.7,1075,3,25.6737912,-100.3667888
+La Embajada,ChIJMXeV3Wy-YoYRsjwPDD-r-W4,"Av. Batallon de San Patricio 1000, Zona San Agustín, 66260 San Pedro Garza García, N.L., Mexico",4.6,1522,3,25.6737912,-100.3667888
+PANGEA,ChIJ8Rlqs5W9YoYRFvRQFa-VXl4,"Av. del Roble 660, Valle del Campestre, 66265 Monterrey, N.L., Mexico",4.7,891,3,25.6737912,-100.3667888
+El Siciliano,ChIJl7EJK2S-YoYR6bQMNOlPsMA,"Calle, Av. Batallon de San Patricio No. 1000, Real San Agustín, 66278 San Pedro Garza García, N.L., Mexico",4.5,405,3,25.6737912,-100.3667888
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6666378,-100.3407827
+Los Hidalgos,ChIJpTfU0EG-YoYRhajF5St9JHM,"Av Lázaro Cárdenas 2660, Zona Valle Oriente, 66278 San Pedro Garza García, N.L., Mexico",4.7,1860,3,25.6737912,-100.3667888
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,2,25.6356611,-100.2839361
+La Nacional,ChIJo5Bk1gK-YoYRUuOk49bHAZk,"Av San Jerónimo 1106, Miravalle, 64634 Monterrey, N.L., Mexico",4.7,3212,3,25.6737912,-100.3667888
+Fornera Wine House,ChIJ_0LjNWmWYoYRXPqnorED96o,"Av Paseo de los Leones 820, Cumbres 1er Sector, 64610 Monterrey, N.L., Mexico",4.8,224,3,25.6737912,-100.3667888
+Taquería Juárez,ChIJE2jfhOe9YoYRoJ8jSINHUgI,"Galeana Nte 123, Centro, 64000 Monterrey, N.L., Mexico",4.5,6958,3,25.6737912,-100.3667888
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6502508,-100.3335439
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,3,25.6484679,-100.3355257
+La Escondida,ChIJKcyadB6WYoYRhYODuwB8JoU,"Río Verde 147, Miravalle, 64660 Monterrey, N.L., Mexico",4.7,440,2,25.6866952,-100.3765442
